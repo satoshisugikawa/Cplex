@@ -3,5 +3,6 @@ CPLEX[1] について簡単な使い方を記述する．IBMCPLEX Optimizer は�
 とが可能である．しかし，２階の問題に対しては適用することは可能である．
 
 # install
+Google class room からWindows もしくはLinuxのファイルをダウンロードする．linux はbashrc にパスを追加する必要がある．
 
 # 使い方
